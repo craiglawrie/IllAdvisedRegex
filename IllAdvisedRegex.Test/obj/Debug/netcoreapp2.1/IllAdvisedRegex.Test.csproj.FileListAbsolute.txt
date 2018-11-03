@@ -1,0 +1,17 @@
+C:\Users\Craig\source\repos\IllAdvisedRegex\IllAdvisedRegex.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Craig\source\repos\IllAdvisedRegex\IllAdvisedRegex.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Craig\source\repos\IllAdvisedRegex\IllAdvisedRegex.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Craig\source\repos\IllAdvisedRegex\IllAdvisedRegex.Test\bin\Debug\netcoreapp2.1\IllAdvisedRegex.Test.deps.json
+C:\Users\Craig\source\repos\IllAdvisedRegex\IllAdvisedRegex.Test\bin\Debug\netcoreapp2.1\IllAdvisedRegex.Test.runtimeconfig.json
+C:\Users\Craig\source\repos\IllAdvisedRegex\IllAdvisedRegex.Test\bin\Debug\netcoreapp2.1\IllAdvisedRegex.Test.runtimeconfig.dev.json
+C:\Users\Craig\source\repos\IllAdvisedRegex\IllAdvisedRegex.Test\bin\Debug\netcoreapp2.1\IllAdvisedRegex.Test.dll
+C:\Users\Craig\source\repos\IllAdvisedRegex\IllAdvisedRegex.Test\bin\Debug\netcoreapp2.1\IllAdvisedRegex.Test.pdb
+C:\Users\Craig\source\repos\IllAdvisedRegex\IllAdvisedRegex.Test\bin\Debug\netcoreapp2.1\IllInspiredRegex.dll
+C:\Users\Craig\source\repos\IllAdvisedRegex\IllAdvisedRegex.Test\bin\Debug\netcoreapp2.1\IllInspiredRegex.pdb
+C:\Users\Craig\source\repos\IllAdvisedRegex\IllAdvisedRegex.Test\obj\Debug\netcoreapp2.1\IllAdvisedRegex.Test.csprojAssemblyReference.cache
+C:\Users\Craig\source\repos\IllAdvisedRegex\IllAdvisedRegex.Test\obj\Debug\netcoreapp2.1\IllAdvisedRegex.Test.csproj.CoreCompileInputs.cache
+C:\Users\Craig\source\repos\IllAdvisedRegex\IllAdvisedRegex.Test\obj\Debug\netcoreapp2.1\IllAdvisedRegex.Test.AssemblyInfoInputs.cache
+C:\Users\Craig\source\repos\IllAdvisedRegex\IllAdvisedRegex.Test\obj\Debug\netcoreapp2.1\IllAdvisedRegex.Test.AssemblyInfo.cs
+C:\Users\Craig\source\repos\IllAdvisedRegex\IllAdvisedRegex.Test\obj\Debug\netcoreapp2.1\IllAdvisedRegex.Test.csproj.CopyComplete
+C:\Users\Craig\source\repos\IllAdvisedRegex\IllAdvisedRegex.Test\obj\Debug\netcoreapp2.1\IllAdvisedRegex.Test.dll
+C:\Users\Craig\source\repos\IllAdvisedRegex\IllAdvisedRegex.Test\obj\Debug\netcoreapp2.1\IllAdvisedRegex.Test.pdb

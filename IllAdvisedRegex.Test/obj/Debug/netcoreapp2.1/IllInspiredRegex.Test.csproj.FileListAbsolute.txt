@@ -1,0 +1,17 @@
+C:\Users\Craig\source\repos\IllInspiredRegex\IllInspiredRegex.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Craig\source\repos\IllInspiredRegex\IllInspiredRegex.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Craig\source\repos\IllInspiredRegex\IllInspiredRegex.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Craig\source\repos\IllInspiredRegex\IllInspiredRegex.Test\bin\Debug\netcoreapp2.1\IllInspiredRegex.Test.deps.json
+C:\Users\Craig\source\repos\IllInspiredRegex\IllInspiredRegex.Test\bin\Debug\netcoreapp2.1\IllInspiredRegex.Test.runtimeconfig.json
+C:\Users\Craig\source\repos\IllInspiredRegex\IllInspiredRegex.Test\bin\Debug\netcoreapp2.1\IllInspiredRegex.Test.runtimeconfig.dev.json
+C:\Users\Craig\source\repos\IllInspiredRegex\IllInspiredRegex.Test\bin\Debug\netcoreapp2.1\IllInspiredRegex.Test.dll
+C:\Users\Craig\source\repos\IllInspiredRegex\IllInspiredRegex.Test\bin\Debug\netcoreapp2.1\IllInspiredRegex.Test.pdb
+C:\Users\Craig\source\repos\IllInspiredRegex\IllInspiredRegex.Test\bin\Debug\netcoreapp2.1\IllInspiredRegex.dll
+C:\Users\Craig\source\repos\IllInspiredRegex\IllInspiredRegex.Test\bin\Debug\netcoreapp2.1\IllInspiredRegex.pdb
+C:\Users\Craig\source\repos\IllInspiredRegex\IllInspiredRegex.Test\obj\Debug\netcoreapp2.1\IllInspiredRegex.Test.csprojAssemblyReference.cache
+C:\Users\Craig\source\repos\IllInspiredRegex\IllInspiredRegex.Test\obj\Debug\netcoreapp2.1\IllInspiredRegex.Test.csproj.CoreCompileInputs.cache
+C:\Users\Craig\source\repos\IllInspiredRegex\IllInspiredRegex.Test\obj\Debug\netcoreapp2.1\IllInspiredRegex.Test.AssemblyInfoInputs.cache
+C:\Users\Craig\source\repos\IllInspiredRegex\IllInspiredRegex.Test\obj\Debug\netcoreapp2.1\IllInspiredRegex.Test.AssemblyInfo.cs
+C:\Users\Craig\source\repos\IllInspiredRegex\IllInspiredRegex.Test\obj\Debug\netcoreapp2.1\IllInspiredRegex.Test.csproj.CopyComplete
+C:\Users\Craig\source\repos\IllInspiredRegex\IllInspiredRegex.Test\obj\Debug\netcoreapp2.1\IllInspiredRegex.Test.dll
+C:\Users\Craig\source\repos\IllInspiredRegex\IllInspiredRegex.Test\obj\Debug\netcoreapp2.1\IllInspiredRegex.Test.pdb

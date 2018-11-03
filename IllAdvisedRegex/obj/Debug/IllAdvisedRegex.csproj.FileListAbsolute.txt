@@ -1,0 +1,6 @@
+C:\Users\Craig\source\repos\IllAdvisedRegex\IllAdvisedRegex\bin\Debug\IllInspiredRegex.dll
+C:\Users\Craig\source\repos\IllAdvisedRegex\IllAdvisedRegex\bin\Debug\IllInspiredRegex.pdb
+C:\Users\Craig\source\repos\IllAdvisedRegex\IllAdvisedRegex\obj\Debug\IllAdvisedRegex.csprojAssemblyReference.cache
+C:\Users\Craig\source\repos\IllAdvisedRegex\IllAdvisedRegex\obj\Debug\IllAdvisedRegex.csproj.CoreCompileInputs.cache
+C:\Users\Craig\source\repos\IllAdvisedRegex\IllAdvisedRegex\obj\Debug\IllInspiredRegex.dll
+C:\Users\Craig\source\repos\IllAdvisedRegex\IllAdvisedRegex\obj\Debug\IllInspiredRegex.pdb
